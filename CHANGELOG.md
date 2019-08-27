@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+
+- Matomo plugin marketplace update.
+
 ## 1.0.1
 
 - Minor maintenance.
