@@ -1,13 +1,13 @@
 {
 	"name": "TwitterFeedWidgetByAmperage",
 	"description": "Show Twitter Feed as a configurable widget.",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"theme": false,
 	"keywords": ["amperage", "twitter", "social", "widget", "twitter feed", "dashboard"],
 	"license": "GPL v3+",
 	"homepage": "https://www.amperagemarketing.com",
 	"require": {
-		"piwik": ">=3.3.0-stable,<5.0.0-b1"
+		"piwik": ">=3.3.0-stable,<4.0.0-b1"
 	},
 	"support": {
 		"email": "kzeni1@gmail.com",
