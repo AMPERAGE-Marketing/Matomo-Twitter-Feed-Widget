@@ -1,7 +1,7 @@
 {
 	"name": "TwitterFeedWidgetByAmperage",
 	"description": "Show X (formerly Twitter) Feed as a configurable widget.",
-	"version": "5.0.0",
+	"version": "5.0.1",
 	"theme": false,
 	"keywords": ["amperage", "twitter", "x", "social", "widget", "twitter feed", "x feed", "dashboard"],
 	"license": "GPL v3+",
